@@ -1,3 +1,5 @@
+// Fixat version av första försöket.
+
 // Bokningsreferensen är en primärnyckel.
 
 // Kundnummer kan existera flera gånger eftersom
